@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Doron Gombosh!
 
-<!--
-**gombosh/gombosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a DevOps Expert with a passion for all aspects of DevOps and automation for development and production.
 
-Here are some ideas to get you started:
+## Skills
+- DevOps 🔭
+- Automation 🤖
+- 3D Printing 📦
+- Home Automation 🏠
+- Bicycle 🚲
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Working on various open-source DevOps tools and scripts.
+
+## Fun Facts
+- I'm a maker and an expert in 3D printing.
+- I love riding bicycles and I'm a bicycle mechanic.
+
+## Contact
+- Social media: "Gombosh"
